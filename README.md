@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+ - My name is tait09 
+ - My age is 24
+ - My lived in Tokyo
 
 Here are some ideas to get you started:
 
