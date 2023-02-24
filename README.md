@@ -1,7 +1,7 @@
 ## Hi there 👋
 
- - My name is tait09 
- - My age is 24
+ - My name is o-ga09 
+ - My age is 25
  - My lived in Tokyo
 
 Here are some ideas to get you started:
