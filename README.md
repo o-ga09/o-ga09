@@ -17,16 +17,24 @@
 
 ## stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=o-ga09&show_icons=true" height="158px" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+ <img src="https://raw.githubusercontent.com/o-ga09/o-ga09/main/profile-summary-card-output/jolly/0-profile-details.svg"
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ga09&layout=compact" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/o-ga09/o-ga09/main/profile-summary-card-output/jolly/1-repos-per-language.svg"/>
 </a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=o-ga09&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="151px" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/o-ga09/o-ga09/main/profile-summary-card-output/jolly/2-most-commit-language.svg" />
+</a>
+ 
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+ <img src="https://raw.githubusercontent.com/o-ga09/o-ga09/main/profile-summary-card-output/jolly/3-stats.svg">
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+ <img src="https://raw.githubusercontent.com/o-ga09/o-ga09/main/profile-summary-card-output/jolly/4-productive-time.svg">
 </a>
 
 ## Skills
