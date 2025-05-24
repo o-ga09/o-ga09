@@ -1,4 +1,4 @@
-<a href="https://music.apple.com/jp/playlist/favorite-songs/pl.u-lxUMYpkqW4" target="_blank">Now Playing ...</a>
+<a href="https://music.apple.com/jp/playlist/favorite-songs/pl.u-lxUMYpkqW4">Now Playing ...</a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/o-ga09/o-ga09/main/profile-summary-card-output/jolly/1-repos-per-language.svg"/>
