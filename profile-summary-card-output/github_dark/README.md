@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/o-ga09/o-ga09/main/profile-summary-card-output/github_dark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/o-ga09/o-ga09/main/profile-summary-card-output/github_dark/4-productive-time.svg)
-```
-
-    
