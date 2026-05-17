@@ -12,6 +12,7 @@ Go software developer for backend development.
 <img src="./image/aws-certified-cloud-practitioner.png" alt="cloud practitioner" width="150"/>
 <img src="./image/aws-certified-developer-associate.png" alt="developer associate" width="150"/>
 <img src="./image/aws-certified-solutions-architect-associate.png" alt="solutions architect associate" width="150"/>
+<img src="./image/aws-certified-solutions-architect-professional.png" alt="solutions architect professional" width="150"/>
 </p>
 
 ### My Favorite 🎉
